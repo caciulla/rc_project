@@ -4,9 +4,9 @@ weight: 2
 header_menu: true
 ---
 
-Information about:
+Call today for information about:
 
-- scheduling
+- availability
 - pricing
 - materials
 - labor costs

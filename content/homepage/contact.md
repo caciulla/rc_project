@@ -8,6 +8,6 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+52 555 555 5555](tel:+52555555555)
 
-Call text or Whatsapp to set up an consultation
+Call text or Whatsapp to set up a consultation
 
 ![logo](../images/favicon-32x32.png)
