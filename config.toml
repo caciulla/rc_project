@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://rcbaja.pages.dev/'
 languageCode = 'en-us'
 title = 'RC Fabricación'
 theme = 'hugo-scroll'
