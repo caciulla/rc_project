@@ -4,44 +4,46 @@ weight: 2
 header_menu: true
 ---
 
-Call today for information about:
+Llamar hoy para obtener información sobre:
 
-- availability
-- pricing
-- materials
-- labor costs
-- time frame for projects
-- service area
+- Aprovechar
+- Fijación de precios
+- Materiales de construcción
+- Costos de trabajo
+- Via de Servício
+- Para hacer un plan de la mejor manera de construir en su terreno
 
 ---
 
 ## Custom Cabañas
 
-Cabañas, cottages, cabins made to any specification
+Cabañas, casitas, y casas de campo hecho a cualquier especificación
 
 ![House_1](images/house_1.jpeg)
 
 ---
 
-## Photo Library of Past Projects
+## Fotos de proyectos pasados
 
 ![House_2](images/house_2.jpeg)
-35' x 16' Cottage with Loft
+10.5 m x 5.5 m Casita con altillo
 
 ![Let us get started on a clean slate](images/house_4.jpeg)
 
-Concrete pillars with steel foundation
+Pilares de hormigón con cimientos de acero
 
 ![house5](../images/house_5.jpeg)
 
-Vacation cabaña on stilts
+Casa de vacaciones sobre pilotes
 
 ![house 5 interior](../images/house_Loft.jpeg)
 
-Interior cabaña loft
+La altillo de la interior de la cabaña
 
 ---
-## We Also Make Furniture
+
+## Tambien fabricamos muebles
+
 ![Gorgeous Bench with inlaid Horseshoes](../images/horseshoeBench.jpeg)
 
 ![Handmade Patio Chair](../images/house_chair.jpeg)
@@ -52,7 +54,6 @@ Interior cabaña loft
 ![Table with Tree Bark Detail](../images/house_Table.jpeg)
 
 ![Beautifu Doors](../images/house_door.jpeg)
-
 
 ---
 
