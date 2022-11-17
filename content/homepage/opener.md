@@ -1,15 +1,16 @@
 ---
-title: "Custom-Made Cabañas in Baja, Mexico"
+title: "Cabañas a la medida en El Sauzal, La Misión, y Valle de Guadalupe"
 weight: 1
 ---
 
-We build custom-made:
+Nosotros construimos por encargo:
 
-- Cabins
-- Cottages
-- Cabañas
-- Vacation homes
-- Rentals
-- Tiny houses
+- Casas de campo
+- Cabañas de vacaciones
+- Cabañas de alquilar
+- Casitas por la vida sencilla
+- Casas para retirarse
+- Casa diminutas
+- Casas tradicional y tipo Americano
 
 ![logo](../images/favicon-128x128.png)
