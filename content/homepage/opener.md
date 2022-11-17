@@ -1,5 +1,5 @@
 ---
-title: "Cabañas a la medida en El Sauzal, La Misión, y Valle de Guadalupe"
+title: "Cabañas a la medida"
 weight: 1
 ---
 
