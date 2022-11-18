@@ -18,25 +18,44 @@ Llamar hoy para obtener información sobre:
 ## Custom Cabañas
 
 Cabañas, casitas, y casas de campo hecho a cualquier especificación
+![Cabañas exterior](images/cottages_outside.jpeg)
 
-![House_1](images/house_1.jpeg)
+![La casita a fuera](images/cottage_1_exterior.jpeg)
+
+![Escalaras buenas](images/cottage_1_stairs.jpeg)
+
+![A dentro](images/cottage_1_interior.jpeg)
+
+![Lo largo de la casa](images/cottage_length.jpeg)
+
+![La cama](images/cottage_bed.jpeg)
+
+![Techo da madera](images/cottage_ceiling.jpeg)
+
+![La cocina](images/cottage_kitchen.jpeg)
+
+![Regadera](images/cottage_shower.jpeg)
+
+![](images/cottage_2_exterior.jpeg))
+
+![Casita_1](images/house_1.jpeg)
 
 ---
 
 ## Fotos de proyectos pasados
 
-![House_2](images/house_2.jpeg)
+![Casita_2](images/house_2.jpeg)
 10.5 m x 5.5 m Casita con altillo
 
-![Let us get started on a clean slate](images/house_4.jpeg)
+![Casita 3](images/house_4.jpeg)
 
 Pilares de hormigón con cimientos de acero
 
-![house5](../images/house_5.jpeg)
+![Casita 4](../images/house_5.jpeg)
 
 Casa de vacaciones sobre pilotes
 
-![house 5 interior](../images/house_Loft.jpeg)
+![Casita 5 interior](../images/house_Loft.jpeg)
 
 La altillo de la interior de la cabaña
 
@@ -44,16 +63,15 @@ La altillo de la interior de la cabaña
 
 ## Tambien fabricamos muebles
 
-![Gorgeous Bench with inlaid Horseshoes](../images/horseshoeBench.jpeg)
+![banco con herraduras incrustadas](../images/horseshoeBench.jpeg)
 
-![Handmade Patio Chair](../images/house_chair.jpeg)
+![Silla de madera](../images/house_chair.jpeg)
 
-![Chest Before Staining](../images/chest_1.jpeg)
-![Chest After Stain](../images/chest_2.jpeg)
+![Baul](../images/chest_2.jpeg)
 
-![Table with Tree Bark Detail](../images/house_Table.jpeg)
+![Mueble](../images/house_Table.jpeg)
 
-![Beautifu Doors](../images/house_door.jpeg)
+![Puerta](../images/house_door.jpeg)
 
 ---
 
