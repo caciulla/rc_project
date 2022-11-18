@@ -36,7 +36,7 @@ Cabañas, casitas, y casas de campo hecho a cualquier especificación
 
 ![Regadera](images/cottage_shower.jpeg)
 
-![](images/cottage_2_exterior.jpeg))
+![](images/cottage_2_exterior.jpeg)
 
 ![Casita_1](images/house_1.jpeg)
 
