@@ -1,16 +1,14 @@
 ---
-title: "Cabañas a la medida"
+title: "Servicios"
 weight: 1
 ---
 
 Nosotros construimos por encargo:
 
 - Casas de campo
-- Cabañas de vacaciones
-- Cabañas de alquilar
-- Casitas por la vida sencilla
-- Casas para retirarse
-- Casa diminutas
-- Casas tradicional y tipo Americano
+- Cabañas vacacionales
+- Cabañas para rentar
+- Casas tipo 'tiny house'
+- Casas tradicionales y tipo Americano
 
 ![logo](../images/favicon-128x128.png)

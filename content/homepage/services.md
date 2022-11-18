@@ -1,16 +1,15 @@
 ---
-title: "Servicios"
+title: "Informes"
 weight: 2
 header_menu: true
 ---
 
-Llamar hoy para obtener información sobre:
+Llame hoy para mas información sobre:
 
-- Aprovechar
-- Fijación de precios
+- Disponibilidad de horario
+- Presupuesto de obra
 - Materiales de construcción
-- Costos de trabajo
-- Via de Servício
+- Area de Servício
 - Para hacer un plan de la mejor manera de construir en su terreno
 
 ---
