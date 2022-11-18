@@ -17,8 +17,9 @@ Llamar hoy para obtener información sobre:
 
 ## Custom Cabañas
 
-Cabañas, casitas, y casas de campo hecho a cualquier especificación
+Cabañas hecho a cualquier especificación
 ![Cabañas exterior](images/cottages_outside.jpeg)
+
 ---
 
 ## Fotos de proyectos pasados
