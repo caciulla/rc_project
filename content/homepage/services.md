@@ -10,7 +10,7 @@ Llame hoy para mas información sobre:
 - Presupuestos de obra
 - Materiales de construcción
 - Areas de servicio
-- Para hacer un plan de la mejor manera de construir en su terreno
+- Planeacion de proyectos ajustados a su medida y de acuerdo a su necesidad
 
 ---
 
@@ -57,7 +57,9 @@ La altillo de la interior de la cabaña
 
 ---
 
-## Tambien fabricamos muebles
+## Tambien fabricamos muebles rústicos
+
+---
 
 ![banco con herraduras incrustadas](../images/horseshoeBench.jpeg)
 
