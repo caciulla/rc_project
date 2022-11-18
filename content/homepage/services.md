@@ -19,6 +19,9 @@ Llamar hoy para obtener información sobre:
 
 Cabañas, casitas, y casas de campo hecho a cualquier especificación
 ![Cabañas exterior](images/cottages_outside.jpeg)
+---
+
+## Fotos de proyectos pasados
 
 ![La casita a fuera](images/cottage_1_exterior.jpeg)
 
@@ -39,10 +42,6 @@ Cabañas, casitas, y casas de campo hecho a cualquier especificación
 ![](images/cottage_2_exterior.jpeg)
 
 ![Casita_1](images/house_1.jpeg)
-
----
-
-## Fotos de proyectos pasados
 
 ![Casita_2](images/house_2.jpeg)
 10.5 m x 5.5 m Casita con altillo
