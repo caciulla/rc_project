@@ -14,14 +14,11 @@ Llame hoy para mas información sobre:
 
 ---
 
-## Custom Cabañas
-
-Cabañas hecho a cualquier especificación
-![Cabañas exterior](images/cottages_outside.jpeg)
+## Conoce nuestros proyectos
 
 ---
 
-## Fotos de proyectos pasados
+![Cabañas exterior](images/cottages_outside.jpeg)
 
 ![La casita a fuera](images/cottage_1_exterior.jpeg)
 
