@@ -7,9 +7,9 @@ header_menu: true
 Llame hoy para mas información sobre:
 
 - Disponibilidad de horario
-- Presupuesto de obra
+- Presupuestos de obra
 - Materiales de construcción
-- Area de Servício
+- Areas de servicio
 - Para hacer un plan de la mejor manera de construir en su terreno
 
 ---

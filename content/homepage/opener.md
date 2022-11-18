@@ -9,6 +9,6 @@ Nosotros construimos por encargo:
 - Cabañas vacacionales
 - Cabañas para rentar
 - Casas tipo 'tiny house'
-- Casas tradicionales y tipo Americano
+- Casas tradicionales de madera y tipo Americano
 
 ![logo](../images/favicon-128x128.png)
