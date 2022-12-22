@@ -20,9 +20,15 @@ Llame hoy para mas información sobre:
 
 ![Cabañas exterior](images/cottages_outside.jpeg)
 
+Uno de nuestro lugares de trabjo donde hemos construido cabañas para vacacionistas.
+
 ![La casita a fuera](images/cottage_1_exterior.jpeg)
 
+Fuera de la primera cabaña que utiliza una pared de bloques como el cimiento.
+
 ![Escalaras buenas](images/cottage_1_stairs.jpeg)
+
+Madura buena por los escalaras de una cabaña.
 
 ![A dentro](images/cottage_1_interior.jpeg)
 
@@ -41,19 +47,19 @@ Llame hoy para mas información sobre:
 ![Casita_1](images/house_1.jpeg)
 
 ![Casita_2](images/house_2.jpeg)
-10.5 m x 5.5 m Casita con altillo
+10.5 m x 5.5 m Casita con altillo.
 
 ![Casita 3](images/house_4.jpeg)
 
-Pilares de hormigón con cimientos de acero
+Pilares de hormigón con cimientos de acero.
 
 ![Casita 4](../images/house_5.jpeg)
 
-Casa de vacaciones sobre pilotes
+Casa de vacaciones sobre pilotes.
 
 ![Casita 5 interior](../images/house_Loft.jpeg)
 
-La altillo de la interior de la cabaña
+La altillo de la interior de la cabaña.
 
 ---
 
