@@ -4,13 +4,13 @@ title: "Fotos"
 
 ## Más Fotos de Nuestros Proyectos
 
-![Escalaras buenas](images/cottage_1_stairs.jpeg)
+![Escalaras buenas](../images/cottage_1_stairs.jpeg)
 
-![Lo largo de la casa](images/cottage_length.jpeg)
+![Lo largo de la casa](../images/cottage_length.jpeg)
 
-![Techo da madera](images/cottage_ceiling.jpeg)
+![Techo da madera](../images/cottage_ceiling.jpeg)
 
-![Casita 3](images/house_4.jpeg)
+![Casita 3](../images/house_4.jpeg)
 
 ![Mueble](../images/house_Table.jpeg)
 
