@@ -1,34 +1,29 @@
 ---
-
-## title: "Fotos"
-
-What kind of projects and why:
-
-- cottages
-- cabañas
-- cabins
-- tiny homes
-
+title: "Fotos"
 ---
 
-## Expert Builder
+## Más Fotos de Nuestros Proyectos
 
-- materials
-- best building practices for Baja, MX
-- labor costs vs completeion of project
+![Escalaras buenas](images/cottage_1_stairs.jpeg)
 
-![Nice picture to make you pay me ;-)](../images/house_1.jpeg)
+![Lo largo de la casa](images/cottage_length.jpeg)
 
-call or text for consultation: +## ### ### ###
+![Techo da madera](images/cottage_ceiling.jpeg)
+
+![Casita 3](images/house_4.jpeg)
+
+![Mueble](../images/house_Table.jpeg)
+
+![Puerta](../images/house_door.jpeg)
+
+#### Por mas detales
+
+{{<icon class="fa fa-envelope">}}&nbsp;[rcfabricacion@outlook.com](mailto:rcfabricacion@outlook.com)
+
+{{<icon class="fa fa-phone">}}&nbsp;[+52 555 555 5555](tel:+52555555555)
+
+Llamar o WhatsApp
+
+![logo](../images/favicon-32x32.png)
 
 ---
-
-## Another Project
-
-![Let us get started on a clean slate](../images/house_2.jpeg)
-
-## And Another Project
-
-![Let us get started on a clean slate](../images/house_3.jpeg)
-
-![house4](../images/house_4.jpeg)

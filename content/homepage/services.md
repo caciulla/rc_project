@@ -22,15 +22,9 @@ Llame hoy para mas información sobre:
 
 ![La casita a fuera](images/cottage_1_exterior.jpeg)
 
-![Escalaras buenas](images/cottage_1_stairs.jpeg)
-
 ![A dentro](images/cottage_1_interior.jpeg)
 
-![Lo largo de la casa](images/cottage_length.jpeg)
-
 ![La cama](images/cottage_bed.jpeg)
-
-![Techo da madera](images/cottage_ceiling.jpeg)
 
 ![La cocina](images/cottage_kitchen.jpeg)
 
@@ -41,8 +35,6 @@ Llame hoy para mas información sobre:
 ![Casita_1](images/house_1.jpeg)
 
 ![Casita_2](images/house_2.jpeg)
-
-![Casita 3](images/house_4.jpeg)
 
 ![Casita 4](../images/house_5.jpeg)
 
@@ -60,13 +52,9 @@ Llame hoy para mas información sobre:
 
 ![Baul](../images/chest_2.jpeg)
 
-![Mueble](../images/house_Table.jpeg)
-
-![Puerta](../images/house_door.jpeg)
-
 ---
 
-Quieren ver mas fotos de nuestros trabajo?
+Quieren ver más fotos de nuestros trabajos?
 
 Poner [aqui](fotos)
 
