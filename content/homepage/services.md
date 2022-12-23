@@ -54,7 +54,7 @@ Llame hoy para mas información sobre:
 
 ---
 
-#### Quieren ver más fotos de nuestros trabajos Poner [aqui](fotos)
+#### Por más fotos de nuestros trabajos pulse [aqui](fotos)
 
 ---
 
