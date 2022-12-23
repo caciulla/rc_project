@@ -2,7 +2,11 @@
 title: "Fotos"
 ---
 
+---
+
 ## Más Fotos de Nuestros Proyectos
+
+---
 
 ![Escalaras buenas](../images/cottage_1_stairs.jpeg)
 
@@ -15,6 +19,8 @@ title: "Fotos"
 ![Mueble](../images/house_Table.jpeg)
 
 ![Puerta](../images/house_door.jpeg)
+
+---
 
 #### Por mas detales
 
