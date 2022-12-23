@@ -1,5 +1,5 @@
-<!-- ---
-title: "Services"
+ ---
+title: "Fotos"
 ---
 
 What kind of projects and why:
@@ -35,4 +35,4 @@ call or text for consultation: +52 646 161 7397
 ![house4](../images/house_4.jpeg)
 
 
- -->
+
