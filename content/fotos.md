@@ -1,14 +1,13 @@
- ---
-title: "Fotos"
 ---
 
+## title: "Fotos"
+
 What kind of projects and why:
+
 - cottages
 - cabañas
 - cabins
 - tiny homes
-
-
 
 ---
 
@@ -20,7 +19,7 @@ What kind of projects and why:
 
 ![Nice picture to make you pay me ;-)](../images/house_1.jpeg)
 
-call or text for consultation: +52 646 161 7397
+call or text for consultation: +## ### ### ###
 
 ---
 
@@ -33,6 +32,3 @@ call or text for consultation: +52 646 161 7397
 ![Let us get started on a clean slate](../images/house_3.jpeg)
 
 ![house4](../images/house_4.jpeg)
-
-
-
